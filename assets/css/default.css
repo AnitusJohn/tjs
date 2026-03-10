@@ -440,7 +440,7 @@ big {
   transform: translateY(-50%);
   position: relative;
   margin: 0 auto;
-  border: 5px solid #ecf0f1;
+  /* border: 5px solid #ecf0f1; */
   width: 100px;
   height: 60px;
 }

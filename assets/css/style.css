@@ -1982,7 +1982,7 @@ Version: 1.2
 	background:url('../img/cta-bg.webp');
 	background-size:cover;
 	background-repeat:no-repeat;
-	background-position:center;
+	/* background-position:center; */
 	position:relative;
 	padding:100px 0 130px
 }
